@@ -8,4 +8,4 @@ The animations are based on [Scroll Sequence](https://scrollsequence.com/). I us
 
 I still need to deal with all the responsive part of the project but that's for another time.
 
-Thanks to [CSS-TRICKS](https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/) for clarifying my ideas about these spells ✨.
+Thanks to [CSS-TRICKS](https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/) for clarifying my ideas about these spells.
