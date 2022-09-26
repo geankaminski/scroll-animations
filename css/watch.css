@@ -1,0 +1,40 @@
+html {
+    height: 300vh;
+}
+
+body {
+    height: 300vh;
+    background: #fff;
+}
+
+canvas {
+    position: fixed;
+    left: 90%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
+.text {
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    transform: translate(-50%, -10%);
+    color: #000;
+    font-size: 2rem;
+    font-family: 'Inter Tight', sans-serif;
+    opacity: 1;
+}
+
+.link {
+    position: fixed;
+    top: 3%;
+    left: 90%;
+    font-size: 16px;
+    color: #000;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}

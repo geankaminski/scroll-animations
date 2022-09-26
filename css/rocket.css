@@ -1,0 +1,41 @@
+html {
+    height: 500vh;
+}
+
+body {
+    height: 400vh;
+    background: #fff;
+}
+
+canvas {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    max-width: 100vw;
+    max-height: 100vh;
+    opacity: 100%;
+}
+
+.text {
+    position: fixed;
+    top: 12%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Bungee Spice', cursive;
+    opacity: 1;
+}
+
+.link {
+    position: fixed;
+    top: 3%;
+    left: 90%;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
